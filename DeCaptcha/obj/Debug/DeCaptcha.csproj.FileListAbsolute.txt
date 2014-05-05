@@ -1,0 +1,42 @@
+E:\Distib\VisualStudioProjects\CSharp\DeCaptcha\DeCaptcha\bin\Debug\DeCaptcha.exe.config
+E:\Distib\VisualStudioProjects\CSharp\DeCaptcha\DeCaptcha\obj\Debug\DeCaptcha.csprojResolveAssemblyReference.cache
+E:\Distib\VisualStudioProjects\CSharp\DeCaptcha\DeCaptcha\obj\Debug\DeCaptcha.FormMain.resources
+E:\Distib\VisualStudioProjects\CSharp\DeCaptcha\DeCaptcha\obj\Debug\DeCaptcha.Properties.Resources.resources
+E:\Distib\VisualStudioProjects\CSharp\DeCaptcha\DeCaptcha\obj\Debug\DeCaptcha.csproj.GenerateResource.Cache
+E:\Distib\VisualStudioProjects\CSharp\DeCaptcha\DeCaptcha\bin\Debug\DeCaptcha.exe
+E:\Distib\VisualStudioProjects\CSharp\DeCaptcha\DeCaptcha\bin\Debug\DeCaptcha.pdb
+E:\Distib\VisualStudioProjects\CSharp\DeCaptcha\DeCaptcha\bin\Debug\AForge.dll
+E:\Distib\VisualStudioProjects\CSharp\DeCaptcha\DeCaptcha\bin\Debug\AForge.Imaging.dll
+E:\Distib\VisualStudioProjects\CSharp\DeCaptcha\DeCaptcha\bin\Debug\AForge.Imaging.Formats.dll
+E:\Distib\VisualStudioProjects\CSharp\DeCaptcha\DeCaptcha\bin\Debug\AForge.Math.dll
+E:\Distib\VisualStudioProjects\CSharp\DeCaptcha\DeCaptcha\obj\Debug\DeCaptcha.exe
+E:\Distib\VisualStudioProjects\CSharp\DeCaptcha\DeCaptcha\obj\Debug\DeCaptcha.pdb
+E:\Distib\VisualStudioProjects\CSharp\DeCaptcha\DeCaptcha\bin\Debug\x64\liblept168.dll
+E:\Distib\VisualStudioProjects\CSharp\DeCaptcha\DeCaptcha\bin\Debug\x64\libtesseract302.dll
+E:\Distib\VisualStudioProjects\CSharp\DeCaptcha\DeCaptcha\bin\Debug\x86\liblept168.dll
+E:\Distib\VisualStudioProjects\CSharp\DeCaptcha\DeCaptcha\bin\Debug\x86\libtesseract302.dll
+E:\Distib\VisualStudioProjects\CSharp\DeCaptcha\DeCaptcha\bin\Debug\Tesseract.dll
+E:\Distib\VisualStudioProjects\CSharp\DeCaptcha\DeCaptcha\bin\Debug\Tesseract.xml
+E:\Distib\VisualStudioProjects\CSharp\DeCaptcha\DeCaptcha\obj\Debug\DeCaptcha.Form2.resources
+E:\Distib\VisualStudioProjects\CSharp\DeCaptcha\DeCaptcha\bin\Debug\Fann.Net.dll
+D:\C#\Source Code C#\Xakep8 Decaptcha\DeCaptcha\DeCaptcha\bin\Debug\DeCaptcha.exe.config
+D:\C#\Source Code C#\Xakep8 Decaptcha\DeCaptcha\DeCaptcha\obj\Debug\DeCaptcha.exe
+D:\C#\Source Code C#\Xakep8 Decaptcha\DeCaptcha\DeCaptcha\obj\Debug\DeCaptcha.pdb
+D:\C#\Source Code C#\Xakep8 Decaptcha\DeCaptcha\DeCaptcha\bin\Debug\x64\liblept168.dll
+D:\C#\Source Code C#\Xakep8 Decaptcha\DeCaptcha\DeCaptcha\bin\Debug\x64\libtesseract302.dll
+D:\C#\Source Code C#\Xakep8 Decaptcha\DeCaptcha\DeCaptcha\bin\Debug\x86\liblept168.dll
+D:\C#\Source Code C#\Xakep8 Decaptcha\DeCaptcha\DeCaptcha\bin\Debug\x86\libtesseract302.dll
+D:\C#\Source Code C#\Xakep8 Decaptcha\DeCaptcha\DeCaptcha\bin\Debug\DeCaptcha.exe
+D:\C#\Source Code C#\Xakep8 Decaptcha\DeCaptcha\DeCaptcha\bin\Debug\DeCaptcha.pdb
+D:\C#\Source Code C#\Xakep8 Decaptcha\DeCaptcha\DeCaptcha\bin\Debug\AForge.dll
+D:\C#\Source Code C#\Xakep8 Decaptcha\DeCaptcha\DeCaptcha\bin\Debug\AForge.Imaging.dll
+D:\C#\Source Code C#\Xakep8 Decaptcha\DeCaptcha\DeCaptcha\bin\Debug\AForge.Imaging.Formats.dll
+D:\C#\Source Code C#\Xakep8 Decaptcha\DeCaptcha\DeCaptcha\bin\Debug\AForge.Math.dll
+D:\C#\Source Code C#\Xakep8 Decaptcha\DeCaptcha\DeCaptcha\bin\Debug\Fann.Net.dll
+D:\C#\Source Code C#\Xakep8 Decaptcha\DeCaptcha\DeCaptcha\bin\Debug\Tesseract.dll
+D:\C#\Source Code C#\Xakep8 Decaptcha\DeCaptcha\DeCaptcha\bin\Debug\Tesseract.xml
+D:\C#\Source Code C#\Xakep8 Decaptcha\DeCaptcha\DeCaptcha\obj\Debug\DeCaptcha.csprojResolveAssemblyReference.cache
+D:\C#\Source Code C#\Xakep8 Decaptcha\DeCaptcha\DeCaptcha\obj\Debug\DeCaptcha.FormMain.resources
+D:\C#\Source Code C#\Xakep8 Decaptcha\DeCaptcha\DeCaptcha\obj\Debug\DeCaptcha.Form2.resources
+D:\C#\Source Code C#\Xakep8 Decaptcha\DeCaptcha\DeCaptcha\obj\Debug\DeCaptcha.Properties.Resources.resources
+D:\C#\Source Code C#\Xakep8 Decaptcha\DeCaptcha\DeCaptcha\obj\Debug\DeCaptcha.csproj.GenerateResource.Cache
